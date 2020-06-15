@@ -1,0 +1,79 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T5]{fontenc}
+\usepackage[vietnamese,english]{babel}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[colorinlistoftodos]{todonotes}
+\usepackage{listings}
+\usepackage{hyperref}
+\usepackage[dvips]{color}
+\usepackage{graphicx}
+\usepackage[left=2.00cm,right=3.00cm,top=2.00cm,bottom=1.00cm]{geometry}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,
+    urlcolor=cyan,
+}
+
+\begin{document}
+\begin{titlepage}
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+\center
+
+%--------------HEADING--------------------------------------------------------------------------------------------------------
+
+%Tên Trường
+\textsc{\LARGE Đại học quốc gia TP.HCM}
+\newline
+\textsc{\LARGE Trường đại học công nghệ thông tin}\\[1.5cm]
+%Logo trường
+\graphicspath{{./logo/}}
+\includegraphics[scale=0.5]{logo-uit (1).png}\\[1.5cm]
+%Chuyên ngành
+\textsc{\Large Ngành khoa học máy tính}\\[0.5cm]
+%Môn
+\textsc{\large Môn học: Kĩ năng nghề nghiệp}\\[0.5cm]
+%Học kì
+\textsc{Học kỳ II (2019-2020)}\\[0.5cm]
+
+%---------------------------TITLE---------------------------------------------------------------------------------------------
+\HRule \\[0.4cm]
+\textsc{\Large Bài tập nhóm}\\
+\textsc{\Large Vị trí việc làm trong tương lai và con đường phát triển sự nghiệp}\\[0.4cm]
+\HRule \\[1.5cm]
+
+%------------------------AUThOR-----------------------------------------------------------------------------------------------
+
+\begin{minipage}{0.4\textwidth}
+\begin{flushleft}\large
+\emph{Sinh viên 1: }\\
+Nguyễn Lâm Thảo Vy\\
+\emph{MSSV: }19522547\\
+\emph{Sinh Viên 2:}\\
+Nguyễn Thị Thúy An
+\emph{MSSV: }1952
+\end{flushleft}
+\end{minipage}
+~
+\begin{minipage}{0.4\textwidth}
+\begin{flushright}\large
+\emph{Giảng viên: }\\
+Nguyễn Văn Toàn
+\end{flushright}
+\end{minipage}
+\\[2cm]
+{\large Thành phố Hồ Chí Minh, tháng 05 năm 2020}
+\end{titlepage}
+
+%--------------------BODY-----------------------------------------------------------------------------------------------------
+\newpage
+{\LARGE \textcolor{cyan}{I. Con đường để đạt được vị trí Software Developer}}\\[0.5cm]
+\begin{center}
+\includegraphics[scale=.5]{hinh/CAREERPATH.png}
+\end{center}
+
+\newpage
+
+\end{document}
