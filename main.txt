@@ -53,7 +53,7 @@ Nguyễn Lâm Thảo Vy\\
 \emph{MSSV: }19522547\\
 \emph{Sinh Viên 2:}\\
 Nguyễn Thị Thúy An
-\emph{MSSV: }1952
+\emph{MSSV: }19521183\\
 \end{flushleft}
 \end{minipage}
 ~
@@ -64,8 +64,104 @@ Nguyễn Văn Toàn
 \end{flushright}
 \end{minipage}
 \\[2cm]
+\includegraphics[scale=0.55]{logo/logo_dh_cntt.jpg}\\[1cm]
+\vfill
 {\large Thành phố Hồ Chí Minh, tháng 05 năm 2020}
+
 \end{titlepage}
+
+\section{Vị trí việc làm}
+\subsection{Tên vị trí việc làm}
+\begin{itemize}
+    \item \ Tiếng Việt: Lập trình viên phần mềm
+    \item \ Tiếng Anh: Software Developer
+\end{itemize}
+\subsection{Mô tả vị trí việc làm}
+\begin{itemize}
+    \item Công ty Cổ phần viễn thông FPT
+    \begin{itemize}
+        \item Lập trình và phát triển các ứng dụng web/ service
+        \item Thực hiện mô tả, phân tích các yêu cầu phần mềm
+        \item Kết hợp với các bộ phận khác (kiểm thử, hệ thống,...) để hoàn thành, triển khai dự án
+        \item Báo cáo và thực hiện các công việc theo yêu cầu của quản lý
+    \end{itemize}
+    \item Công ty Fujinet Systems JSC
+    \begin{itemize}
+        \item Tham gia phân tích thiết kế hệ thống, thiết kế Database, thiết kế chi tiết
+        \item Tham gia lập trình, kiểm thử sản phẩm với ngôn ngữ .NET, JAVA
+        \item Cải tiến và nâng cao chất lượng dự án.
+        \item Nghiên cứu, tìm hiểu và ứng dụng các công nghệ mới (AI, RPA, Blockchain, Big Data…)
+    \end{itemize}
+    \item Công ty TNHH Geotech
+    \begin{itemize}
+        \item Nghiên cứu các tính năng mới, phân tích yêu cầu; triển khai, thiết kế phần mềm
+        \item Thiết kế và đánh giá các giải pháp
+        \item Bảo trì các sản phẩm của công ty, đảm bảo chất lượng của việc cung cấp phần mềm
+        \item Chuẩn bị ghi chú phát hành và xây dựng các gói để cung cấp cho khách hàng
+        \item Đảm bảo thời gian hoạt động của sản phẩm, hiểu được toàn bộ vòng đời phát triển 
+    \end{itemize}
+    \item Công ty cổ phần VNG
+    \begin{itemize}
+        \item Phát triển ứng dụng web hỗ trợ công tác vận hành Data Center (trung tâm dữ liệu)
+        \item Tìm hiểu, thu thập nhu cầu, quy trình làm việc của các bộ phận để xây dựng các ứng dụng
+        \item Lập kế hoạch, theo dõi, cập nhật tiến độ xây dựng phần mềm
+        \item Xây dựng và kiểm soát qui trình phát triển phần mềm
+    \end{itemize}
+    \item Công ty TNHH Nasys
+    \begin{itemize}
+        \item Tham gia nghiên cứu và đưa ra giải pháp cho một số tính năng mới của phần mềm
+        \item Tham gia lập trình các chức năng mới của phần mềm.
+        \item Tham gia viết tài liệu yêu cầu, tài liệu giao diện người dùng cho các chức năng mới của phần mềm theo yêu cầu từ khách hàng
+        \item Tham gia bảo trì hệ thống cho phần mềm.
+    \end{itemize}
+    \item Công ty TNHH Sản Xuất Và Kinh Doanh Phần Mềm HMS
+    \begin{itemize}
+        \item Phát triển các thành phần và mô-đun giao diện người dùng dựa trên web có độ phản hồi cao bằng Angular, Bootstrap
+        \item Phát triển các tính năng sản phẩm mới và các ứng dụng mới trong môi trường Agile
+        \item Viết mã được thiết kế tốt, hiệu quả bằng các thực tiễn phát triển tốt nhất và mới nhất, xem xét mã và tái cấu trúc
+        \item Nghiên cứu công nghệ mới để thích ứng với hệ thống và yêu cầu.
+        \item Phối hợp với các thành viên khác (phía máy chủ hoặc bên thứ ba) để thiết kế, thực hiện các yêu cầu tính năng
+    \end{itemize}
+\end{itemize}
+\subsection{Yêu cầu}
+\begin{itemize}
+    \item Chuyên môn
+    \begin{itemize}
+        \item Tốt nghiệp các trường Đại học, chuyên ngành Công nghệ thông tin, Điện tử, Viễn thông,...
+        \item Có kinh nghiệm làm việc ít nhất 1 năm theo đúng chuyên ngành Công nghệ thông tin hoặc tương đương
+        \bigskip
+        \item Có kinh nghiệm lập trình với ngôn ngữ JAVA hoặc .NET
+        \item Có kinh nghiệm lập trình với ngôn ngữ HTML, CSS hoặc Javascript
+        \item Thành thạo ngôn ngữ lập trình và thư viện: C++, Python, MFC\\
+        (tùy công việc cần thành thạo các ngôn ngữ khác nhau)
+        \bigskip
+        \item Hiểu biết về MVC Framework, ORM, OOP
+        \item Có kinh nghiệm trong việc phát triển ứng dụng WEB trên các nền tảng: ReactJS, Django Rest Framework
+        \item Có kinh nghiệm trong việc thiết kế UI/UX
+        \item Đã từng làm với ít nhất một Database: SQL, MySQL,...
+        \bigskip
+        \item Biết quản lý code bằng các hệ thống như Git, SVN,...
+        \item Có kiến thức trung cấp về các nguyên tắc CI / CD và DevOps
+        \item Có kinh nghiệm trong việc phát triển ứng dụng có quản lý phân quyền và Work Flow phức tạp
+        \item Có kinh nghiệm tổ chức, quản lý quy trình phát triển phần mềm theo mô hình Scrum/Agile
+    \end{itemize}
+    \item Kỹ năng
+    \begin{itemize}
+        \item Có kỹ năng làm việc nhóm và làm việc độc lập
+        \item Có kỹ năng tư duy, phân tích và giải quyết vấn đề tốt
+        \item Có kỹ năng giao tiếp tốt, có thể giao tiếp bằng tiếng Anh
+        \item Có khả năng đọc hiểu các tài liệu thiết kế phần mềm
+        \item Có khả năng nghiên cứu và cài đặt thuật toán tốt
+    \end{itemize}
+    \item Thái độ
+    \begin{itemize}
+        \item Yêu thích và mong muốn tham gia công việc lập trình phần mềm
+        \item Nhiệt huyết, chủ động, sáng tạo trong công việc
+        \item Cẩn thận, kiên nhẫn, ham học hỏi
+        \item Trung thực, có tinh thần trách nhiệm cao
+        \item Sẵn sàng làm việc trong môi trường nhiều áp lực
+    \end{itemize}
+\end{itemize}
 
 %--------------------BODY-----------------------------------------------------------------------------------------------------
 \newpage
