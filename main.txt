@@ -30,7 +30,7 @@
 \textsc{\LARGE Trường đại học công nghệ thông tin}\\[1.5cm]
 %Logo trường
 \graphicspath{{./logo/}}
-\includegraphics[scale=0.5]{logo-uit (1).png}\\[1.5cm]
+\includegraphics[scale=0.5]{hinh/logo-uit (1).png}\\[1.5cm]
 %Chuyên ngành
 \textsc{\Large Ngành khoa học máy tính}\\[0.5cm]
 %Môn
@@ -69,6 +69,9 @@ Nguyễn Văn Toàn
 {\large Thành phố Hồ Chí Minh, tháng 05 năm 2020}
 
 \end{titlepage}
+
+
+%--------------------BODY-----------------------------------------------------------------------------------------------------
 
 \section{Vị trí việc làm}
 \subsection{Tên vị trí việc làm}
@@ -163,13 +166,36 @@ Nguyễn Văn Toàn
     \end{itemize}
 \end{itemize}
 
-%--------------------BODY-----------------------------------------------------------------------------------------------------
 \newpage
-{\LARGE \textcolor{cyan}{I. Con đường để đạt được vị trí Software Developer}}\\[0.5cm]
+{\LARGE \textcolor{cyan}{II. Con đường để đạt được vị trí Software Developer}}\\[0.5cm]
 \begin{center}
 \includegraphics[scale=.5]{hinh/CAREERPATH.png}
 \end{center}
 
 \newpage
+
+\begin{center}
+    \textsc{\LARGE HỢP ĐỒNG NHÓM}\\[0.5cm]
+    \textbf{\Large SS004.K24}
+\end{center}
+{\large 1. Thành viên trong nhóm: }\\[0.5cm]
+\begin{tabular}{|| c | c ||}
+\hline
+\hline
+    Tên sinh viên & Mả số sinh viên  \\ \hline
+    Nguyễn Thị Thúy An & 19521183\\ \hline
+    Nguyễn Lâm Thảo Vy & 19522546\\ \hline
+    \hline
+\end{tabular}\\[0.5cm]
+\newline
+{\large 2. Link làm việc chung: \href{https://github.com/dokidokiprecure30/Group-Practice-Exercise-SS004.K24}{ Nơi làm việc chung của nhóm tại đây!} }\\[0.5cm]
+{\large 3. Mục đích của nhóm}
+\begin{itemize}
+    \item Nâng cao tinh thần hợp tác, cùng nhau hoàn thành nhiệm vụ được giao.
+    \item Cải thiện khả năng làm việc nhóm.
+    \item Cải thiện khả năng sử dụng các phần mềm ma môn học đề ra
+\end{itemize}
+{\large 4. Phân chia công việc}\\[0.5cm]
+\includegraphics[scale=.5]{hinh/PhanChiaCongViec.png}
 
 \end{document}
