@@ -152,6 +152,16 @@ Nguyễn Văn Toàn
     \item Cải thiện khả năng sử dụng các phần mềm ma môn học đề ra
 \end{itemize}
 \subsection{Phân chia công việc}
-\includegraphics[scale=.5]{hinh/PhanChiaCongViec.png}
-\newline
+ \begin{tabular} { |>{\centering} m{2.45cm} | >{\centering}m{2.45cm}| >{\centering}m{2.45cm}| >{\centering}m{2.45cm}| >{\centering}m{2.45cm}| }
+    \hline
+      & Trưởng nhóm chỉ đạo nhóm làm việc & Tìm kiếm và tổng hợp tài liệu, thông tin về vấn đề giáo viên đưa ra & Tìm hiểu kĩ và trình bày về phần vị trí việc làm & Tìm hiểu về phần mềm và vẽ sơ đồ
+    \tabularnewline
+    \hline
+    Nguyễn Thị Thúy An & x & x & & x
+    \tabularnewline
+    \hline
+    Nguyễn Lâm Thảo Vy &  & x & x & x
+    \tabularnewline
+    \hline
+\end {tabular}
 \end{document}
