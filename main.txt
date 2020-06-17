@@ -16,6 +16,12 @@
     filecolor=magenta,
     urlcolor=cyan,
 }
+\usepackage{array}
+\usepackage{wrapfig}
+\usepackage{multirow}
+\usepackage{booktabs}
+\usepackage{tabularx}
+
 
 \begin{document}
 \begin{titlepage}
@@ -161,6 +167,45 @@ Nguyễn Văn Toàn
         \item Trung thực, có tinh thần trách nhiệm cao
         \item Sẵn sàng làm việc trong môi trường nhiều áp lực
     \end{itemize}
+\end{itemize}
+
+\section{Đánh giá công việc}
+\begin{itemize}
+    \item Nguyên tắc đánh giá\\
+    \hspace*{1cm}Các thành viên đánh giá lẫn nhau một cách khách quan dựa trên quá trình làm việc nhóm. Kết quả đánh giá dựa trên số đông.
+    \item Tiêu chí đánh giá\\[0.5cm]
+\begin{tabular} { |>{\centering} m{1.5cm} | >{\centering}m{2.25cm}| >{\centering}m{2.25cm}| >{\centering}m{2.25cm}| >{\centering}m{2.25cm}| }
+    \hline
+    Tiêu chí đánh giá &Tuyệt vời & Tốt & Bình thường & Kém 
+    \tabularnewline
+    \hline
+    Thái độ làm việc & Hoàn thành nhiệm vụ tốt, tích cực giúp đỡ các thành viên khác & Hoàn thành nhiệm vụ tốt, có tham gia giúp đỡ các thành viên khác & Hoàn thành nhiệm vụ & Không hoàn thành nhiệm vụ, Hoàn thành nhiệm vụ kém
+    \tabularnewline
+    \hline
+    Chất lượng công việc & Công việc đạt chất lượng rất tốt & Công việc đạt chất lượng tốt &  Công việc có chất lượng trung bình & Công việc có chất lượng kém
+    \tabularnewline
+    \hline
+    Sử dụng thời gian & Hoàn thành nhanh chóng, trước hạn hoặc đúng hạn & Hoàn thành công việc đúng hạn & Hoàn thành công việc trễ hạn nhưng vẫn trong khoảng thời gian dự trữ & Không hoàn thành công việc trễ hạn, vượt khoảng thời gian dự trữ  
+    \tabularnewline
+    \hline
+    Giải quyết vấn đề phát sinh & Giải quyết tốt các vấn đề phát sinh, giúp các thành viên khác giải quyết vấn đề & Giải quyết tốt các vấn đề phát sinh & Giải quyết được một phần các vấn đề phát sinh & Không biết giải quyết các vấn đề phát sinh
+    \tabularnewline
+    \hline
+    \end{tabular}
+    \item Kết quả đánh giá\\[0.5cm]
+    \begin{tabular} { |>{\centering} m{2.45cm} | >{\centering}m{2cm}| >{\centering}m{2.05cm}| >{\centering}m{2cm}| >{\centering}m{2cm}| }
+    \hline
+    Thành viên & Thái độ làm việc & Chất lượng công việc & Sử dụng thời gian & Giải quyết vấn đề phát sinh
+    \tabularnewline
+    \hline
+    Nguyễn Thị Thúy An & Bình thường  & Bình thường & Bình thường & Bình thường
+    \tabularnewline
+    \hline
+    Nguyễn Lâm Thảo Vy & Bình thường& Bình thường& Bình thường & Bình thường
+    \tabularnewline
+    \hline
+    \end {tabular}
+        
 \end{itemize}
 
 %--------------------BODY-----------------------------------------------------------------------------------------------------
